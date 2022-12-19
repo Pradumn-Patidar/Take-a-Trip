@@ -9,12 +9,12 @@
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic-square&logo=linkedin&colorB=555"
       alt="linkedin" />
   </a>
-  <a href="https://github.com/Pradumn-Patidar/huffman-compression/issues">
-    <img src="https://img.shields.io/github/issues-raw/Pradumn-Patidar/huffman-compression"
+  <a href="https://github.com/Pradumn-Patidar/Take-a-trip/issues">
+    <img src="https://img.shields.io/github/issues-raw/Pradumn-Patidar/Take-a-trip"
       alt="open issues" />
   </a>
-  <a href="https://github.com/Pradumn-Patidar/huffman-compression/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed-raw/Pradumn-Patidar/huffman-compression"
+  <a href="https://github.com/Pradumn-Patidar/Take-a-trip/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed-raw/Pradumn-Patidar/Take-a-trip"
       alt="closed issues" />
   </a>
 </p>
