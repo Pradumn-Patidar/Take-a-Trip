@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Pradumn-Patidar/Take-a-Trip/tree/main/public/images/Readme_image.png">
+  <img src="https://github.com/Pradumn-Patidar/Take-a-Trip/blob/main/public/images/Readme_image.png">
 </p>
 
 <h1 align="center">Take-a-Trip</h1>
